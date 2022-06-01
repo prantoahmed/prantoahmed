@@ -1,6 +1,6 @@
 ![Web Developer](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
-I'm Nurul Huda
-#### Web Developer
+##I'm Nurul Huda
+### Web Developer
 
 
 I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind.
