@@ -1,11 +1,11 @@
 ![Web Developer](https://s27389.pcdn.co/wp-content/uploads/2021/08/addressing-demand-for-global-software-developer-talent-1011x440.jpeg.optimal.jpeg)
 
-### Hi there 👋, 
+### Hi there 👋, I'm
 Nurul Huda
 ## Web Developer
 I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / JS / HTML / CSS / FIREBASE
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
