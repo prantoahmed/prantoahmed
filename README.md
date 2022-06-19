@@ -1,5 +1,5 @@
-(https://s27389.pcdn.co/wp-content/uploads/2021/08/addressing-demand-for-global-software-developer-talent-1011x440.jpeg.optimal.jpeg)
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<h2 align="center">A passionate frontend developer from Bangladesh</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantoahmed&label=Profile%20views&color=0e75b6&style=flat" alt="prantoahmed" /> </p>
 
