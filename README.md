@@ -1,4 +1,4 @@
-![Web Developer](https://cdn.vectorstock.com/i/1000x1000/82/08/web-development-neon-banner-design-vector-26918208.webp](https://www.nicepng.com/png/detail/25-258854_design-development-web-development-banner-png.png)
+![Web Developer] ([https://cdn.vectorstock.com/i/1000x1000/82/08/web-development-neon-banner-design-vector-26918208.webp](https://www.nicepng.com/png/detail/25-258854_design-development-web-development-banner-png.png](https://s27389.pcdn.co/wp-content/uploads/2021/08/addressing-demand-for-global-software-developer-talent-1011x440.jpeg.optimal.jpeg))
 
 ### Hi there 👋, 
 I'm Nurul Huda
