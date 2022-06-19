@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Nurul Huda
-#### Web Developer
 ![Web Developer](https://previews.123rf.com/images/pratyaksa/pratyaksa1509/pratyaksa150900010/44827463-web-development-illustration-flat-design-banner-illustration-of-web-development-concept-flat-design-.jpg)
 
-Web Developer I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind. 
+### Hi there 👋, 
+I'm Nurul Huda
+###### Web Developer 
+I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind. 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP/ FIREBASE
 
