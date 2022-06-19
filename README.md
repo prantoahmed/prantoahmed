@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nurul Huda
 #### Web Developer
-![Web Developer](https://www.google.com/search?q=web+developer+banner&tbm=isch&ved=2ahUKEwiY9piKiLn4AhWxhNgFHYC-Cb8Q2-cCegQIABAA&oq=web+developer&gs_lcp=CgNpbWcQARgHMgQIIxAnMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgUIABCABFAAWABgrjFoAHAAeACAAV2IAV2SAQExmAEAqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=stmuYpjVB7GJ4t4PgP2m-As&bih=951&biw=1920#imgrc=IYQjLMAoDbXONM)
+![Web Developer](https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
 Web Developer I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind. 
 
