@@ -1,4 +1,4 @@
-![Web Developer](https://previews.123rf.com/images/pratyaksa/pratyaksa1509/pratyaksa150900010/44827463-web-development-illustration-flat-design-banner-illustration-of-web-development-concept-flat-design-.jpg)
+![Web Developer](https://cdn.vectorstock.com/i/1000x1000/82/08/web-development-neon-banner-design-vector-26918208.webp)
 
 ### Hi there 👋, 
 I'm Nurul Huda
