@@ -5,12 +5,12 @@ Nurul Huda
 ## Web Designer
 I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / FIREBASE
+Skills: HTML / CSS / Bootstrap5 / JS / FIREBASE
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Design 
 - 😄 Pronouns: End Of Life 
 - ⚡ Fun fact: Goosiping 
 
