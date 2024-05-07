@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm
 Nurul Huda
 ## Softeare QA Engineer
-I'm Front End Web developer who is passionate about making error free wesites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.I'm strategic,goal-oriented and always work with an end goal in mind.
+Looking for an challenging role in any software company where i can start my career as a Software Quality Assurance Engineer that utilizing my professional knowledge and analytical skills for the success of the company.
 
 Skills:   Manual Testing Test Case Writing | Test Report Writing | API Testing | SDLC | Performance Testing | Project Management Tool Jira
 
