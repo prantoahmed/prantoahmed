@@ -1,8 +1,8 @@
-![Softare QA Engineer](https://s27389.pcdn.co/wp-content/uploads/2021/08/addressing-demand-for-global-software-developer-talent-1011x440.jpeg.optimal.jpeg)
+![Software QA Engineer](https://s27389.pcdn.co/wp-content/uploads/2021/08/addressing-demand-for-global-software-developer-talent-1011x440.jpeg.optimal.jpeg)
 
 ### Hi there 👋, I'm
 Nurul Huda
-## Softeare QA Engineer
+## Software QA Engineer
 Looking for an challenging role in any software company where i can start my career as a Software Quality Assurance Engineer that utilizing my professional knowledge and analytical skills for the success of the company.
 
 Skills:   Manual Testing Test Case Writing | Test Report Writing | API Testing | SDLC | Performance Testing | Project Management Tool Jira
