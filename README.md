@@ -8,9 +8,9 @@ Looking for an challenging role in any software company where i can start my car
 Skills:   Manual Testing Test Case Writing | Test Report Writing | API Testing | SDLC | Performance Testing | Project Management Tool Jira
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Software automation
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Design 
+- 💬 Ask me about Software testing
 - 😄 Pronouns: End Of Life 
 - ⚡ Fun fact: Goosiping 
 
