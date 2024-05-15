@@ -1,4 +1,4 @@
-![Software QA Engineer](https://s27389.pcdn.co/wp-content/uploads/2021/08/addressing-demand-for-global-software-developer-talent-1011x440.jpeg.optimal.jpeg)
+Software QA Engineer
 
 ### Hi there 👋, I'm
 Nurul Huda
