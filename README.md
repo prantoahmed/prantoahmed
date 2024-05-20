@@ -1,9 +1,9 @@
-Software QA Engineer
+
 ![Untitled-1](https://github.com/prantoahmed/prantoahmed/assets/30936060/db3e10f0-8f52-4b14-a965-fdf0e995d4e2)
 
 ### Hi there 👋, I'm
-Nurul Huda
-## Software QA Engineer
+##Nurul Huda
+# Software QA Engineer
 Looking for an challenging role in any software company where i can start my career as a Software Quality Assurance Engineer that utilizing my professional knowledge and analytical skills for the success of the company.
 
 Skills:   Manual Testing Test Case Writing | Test Report Writing | API Testing | SDLC | Performance Testing | Project Management Tool Jira
