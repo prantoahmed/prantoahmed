@@ -4,11 +4,11 @@
 ### Hi there, I'm
 ## Nurul Huda
 # Software QA Engineer
-Looking for an challenging role in any software company where i can start my career as a Software Quality Assurance Engineer that utilizing my professional knowledge and analytical skills for the success of the company.
+Aspiring for a challenging job in a multinational or international company that helps to master in the field of 
+Software Quality Assurance Engineer and can contribute my analytical skills and Knowledge to bring out the maximum output.
 
 Skills:   Manual Testing Test Case Writing | Test Report Writing | API Testing | SDLC | Performance Testing | Project Management Tool Jira
-
-- 🔭 I’m currently working on Fiverr 
+ 
 - 🌱 I’m currently learning Software automation
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Software testing
